@@ -1,0 +1,9 @@
+.vagrant
+.idea
+/vendor/
+web/bundles
+web/graphs/*.png
+app/cache/*
+app/logs/*
+sgcontrol/cache/*
+sgcontrol/logs/*
